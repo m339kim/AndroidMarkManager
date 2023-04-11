@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ViewModelFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="filter">
+        <item>All Courses</item>
+        <item>CS Only</item>
+        <item>MATH Only</item>
+        <item>Other Only</item>
+    </string-array>
+    <string-array name="sort">
+        <item>By Code (A -> Z)</item>
+        <item>By Term (Old -> New)</item>
+        <item>By Mark (High -> Low)</item>
+    </string-array>
+    <string-array name="term">
+        <item>F20</item>
+        <item>W21</item>
+        <item>S21</item>
+        <item>F21</item>
+        <item>W22</item>
+        <item>S22</item>
+        <item>F22</item>
+        <item>W23</item>
+        <item>S23</item>
+        <item>F23</item>
+        <item>W24</item>
+        <item>S24</item>
+        <item>F24</item>
+        <item>W25</item>
+    </string-array>
+</resources>
