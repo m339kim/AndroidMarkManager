@@ -4,6 +4,7 @@
   <img width="300" alt="Before" src="https://user-images.githubusercontent.com/55883282/231275880-0c5520fa-ab35-49f5-a615-b24869575543.png">
 </p>
 This Mark Manager Android App is a tool for students who want to manage their academic progress. With this app, you can add, edit, or delete courses and keep track of your grades and the term taken for each course. It also has a sort & filter functionality for the users to customize their academic status.
+Fully implemented MVVM structure, along with navigation features.
   
 ## Features
 * **Add course:** Add new courses to the app by providing the course name, course code, and instructor information.
